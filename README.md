@@ -61,11 +61,6 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Entrywayz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Entrywayz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5" height="165" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
   <img src="https://streak-stats.demolab.com/?user=Entrywayz&theme=tokyonight&hide_border=true&background=0d1117&stroke=7aa2f7&ring=bb9af7&fire=e0af68&currStreakLabel=7aa2f7" height="165" alt="GitHub Streak" />
 </div>
 
